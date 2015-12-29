@@ -1,2 +1,1 @@
-# Help_C1
-contains dummy Helps
+This section is designed to host help files here
